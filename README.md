@@ -4,7 +4,7 @@
 
 This project demonstrates the use of **Retrieval-Augmented Generation (RAG)** for extracting detailed and contextually accurate answers from PDF documents. It integrates multiple AI technologies, such as **Sentence Transformers** for text embeddings, **FAISS** for similarity search, and **Groq API** for leveraging the **Mistral-SABA-24B** model to generate responses based on the retrieved context.
 
-## **Overview**
+Overview
 
 The goal of this project is to create an interactive web application where users can upload PDF files and ask questions regarding the content of these documents. The app processes the PDF, retrieves relevant context from the text, and uses a state-of-the-art language model to generate a detailed and accurate response.
 
